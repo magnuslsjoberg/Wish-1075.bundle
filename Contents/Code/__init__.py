@@ -15,7 +15,8 @@ LOGO     = 'wish-logo.png' #'http://wish1075.com/wp-content/themes/wishfm-2016/i
 # Wish 107.5 URLs
 
 # Youtube URLs
-BASE_URL      = 'https://youtube.com/user/WishFM1075official'
+#BASE_URL      = 'https://youtube.com/user/WishFM1075official' Youtube closed down this user...
+BASE_URL      = 'https://www.youtube.com/channel/UC4mNKqTuEvp9tVXWz43ijwQ'
 URL_VIDEOS    = BASE_URL + '/videos'
 URL_PLAYLISTS = BASE_URL + '/playlists?sort=lad&view=1&flow=list'
 URL_SEARCH    = BASE_URL + '/search?query={QUERY}'
